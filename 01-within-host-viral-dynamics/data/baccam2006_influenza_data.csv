@@ -1,0 +1,13 @@
+time_days,log10_viral_load,source
+0.0,1.5,Baccam2006_Fig1_approx
+0.5,2.0,Baccam2006_Fig1_approx
+1.0,3.5,Baccam2006_Fig1_approx
+1.5,5.3,Baccam2006_Fig1_approx
+2.0,7.2,Baccam2006_Fig1_approx
+2.5,7.8,Baccam2006_Fig1_approx
+3.0,7.4,Baccam2006_Fig1_approx
+4.0,6.2,Baccam2006_Fig1_approx
+5.0,4.4,Baccam2006_Fig1_approx
+6.0,2.9,Baccam2006_Fig1_approx
+7.0,1.6,Baccam2006_Fig1_approx
+8.0,0.8,Baccam2006_Fig1_approx
