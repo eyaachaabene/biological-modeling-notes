@@ -1,15 +1,10 @@
 # Mathematical and Computational Modeling in Complex Biological Systems
-
-This repository contains notes based on the review article:
-
 **Ji Z., Yan K., Li W., Hu H., Zhu X.**  
 *Mathematical and Computational Modeling in Complex Biological Systems*  
 BioMed Research International, 2017  
 
 Paper link:  
 https://doi.org/10.1155/2017/5958321  
-
-The goal is to summarize classical systemic modeling approaches used in systems biology, especially for complex diseases like cancer.
 
 ---
 
